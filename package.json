@@ -16,7 +16,7 @@
     "@vitejs/plugin-react": "^4.3.4",
     "canvas-confetti": "^1.9.4",
     "dotenv": "^16.6.1",
-    "express": "^5.1.0",
+    "express": "^5.2.0",
     "lucide-react": "^0.475.0",
     "motion": "^14.4.0",
     "qrcode": "^1.5.4",
@@ -31,4 +31,3 @@
     "puppeteer-core": "^25.14.0"
   }
 }
-
